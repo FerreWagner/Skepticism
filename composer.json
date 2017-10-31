@@ -16,10 +16,8 @@
 	"catfan/medoo":"*",
 	"twig/twig":"~1.0",
 	"phpoffice/phpexcel": "^1.8",
-	"phpmailer/phpmailer": "^5.2",
-	"another-vendor/package": "1.*"
+	"phpmailer/phpmailer": "^5.2"
   },
   "keywords" : [ "FerreWagner", "PHP Framework" ],
-  "type" : "Framework",
-  "minimum-stability": "dev"
+  "type" : "Framework"
 }
