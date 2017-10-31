@@ -1,7 +1,14 @@
 {
   "name" : "Skepticism",
   "description" : "PHP micro Framework",
+  "license":"MIT",
   "version" : "1.0",
+  "authors": [
+		{
+			"name": "Leon",
+			"email": "leon.peng@live.com"
+		}
+	],
   "require" : {
     "php" : ">=5.3.0",
     "filp/whoops" : "*",
