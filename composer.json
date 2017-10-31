@@ -19,5 +19,11 @@
 	"phpmailer/phpmailer": "^5.2"
   },
   "keywords" : [ "FerreWagner", "PHP Framework" ],
-  "type" : "Framework"
+  "type" : "Framework",
+  "repositories": {
+    "packagist": {
+        "type": "composer",
+        "url": "https://packagist.org"
+    }
+}
 }
