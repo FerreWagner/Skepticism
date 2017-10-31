@@ -2,7 +2,7 @@
   "name" : "ferrewagner/skepticism",
   "description" : "PHP micro Framework",
   "license":"MIT",
-  "version" : "1.0",
+  "version":"1.0",
   "authors": [
 		{
 			"name": "Leon",
