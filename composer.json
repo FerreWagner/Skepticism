@@ -20,10 +20,5 @@
   },
   "keywords" : [ "FerreWagner", "PHP Framework" ],
   "type" : "Framework",
-  "repositories": {
-    "packagist": {
-        "type": "composer",
-        "url": "https://packagist.org"
-    }
-}
+  "minimum-stability": "dev"
 }
