@@ -2,7 +2,7 @@ Skepticism 1.0
 ===============
 Skepticism是一个由Ferre模仿的轮子框架，支持自动加载和单一入口，PATHINFO的路由模式。开始的设计想法是单例设计模式，在[version_1](https://github.com/FerreWagner/Skepticism_All/tree/master/version_1)版本中有采用。
 
-Skepticism是一个通过PHP编写的简易MVC框架，基于PHP5.3编写，属于原生轮子，名为怀疑论，意为怀疑经验及过去。
+Skepticism是一个通过PHP编写的轻量级MVC框架，基于PHP5.3编写，属于原生轮子，名为怀疑论，意为怀疑经验及过去。
 
 主要功能及特性：
 
